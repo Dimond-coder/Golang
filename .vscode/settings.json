@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.tabs.defaultIcon": "window",
+    "git.allowForcePush": true,
+    "git.enabled": true,
+    "git.terminalGitEditor": true
+}
